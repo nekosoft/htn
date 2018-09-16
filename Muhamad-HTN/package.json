@@ -1,0 +1,23 @@
+{
+  "fitbit": {
+    "appUUID": "ca33d0c2-fbe7-4a18-a7c8-6404b86049de",
+    "appType": "app",
+    "appDisplayName": "HTN18_2.0",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#009688",
+    "requestedPermissions": [
+      "access_location",
+      "access_activity",
+      "access_user_profile",
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs"
+    ],
+    "i18n": {
+      "en": {
+        "name": "HTN18_2.0"
+      }
+    }
+  }
+}
