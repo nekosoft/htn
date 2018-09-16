@@ -1,0 +1,28 @@
+<svg>
+  <use id="container" class="ui" href="#panoramaview">
+    <use id="item1" class="ui" href="#panoramaview-item">
+      <image href="fitbit-ui-02.png" />
+    </use>
+    <use id="item2" class="ui" href="#panoramaview-item">
+      <image href="fitbit-ui-03.png" />
+     </use>
+    <use id="item3" class="ui" href="#panoramaview-item">
+      <image href="fitbit-ui-04.png" />
+    </use>
+    <use id="item4" class="ui" href="#panoramaview-item">
+      <image href="found.png" />
+    </use>
+    <use id="item5" class="ui" href="#panoramaview-item">
+      <image href="fitbit-ui-07.png" />
+    </use>
+
+    <use id="pagination-dots" href="#pagination-widget" y="8">
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-highlight-dot" />
+    </use>
+  </use>
+</svg>
